@@ -3,6 +3,7 @@ eszioom is my old Doom3 map based on my secondary school.
 
 ## Try
 The simple but dirty method:
+
 1. Copy each directory (`guis, maps, materials, textures`) in your `Doom 3/base` directory.
 2. Run the game, open the console (`CTRL+ALT+0`) and type: `map eszidoom`
 3. ????
