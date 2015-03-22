@@ -1,0 +1,26 @@
+windowDef Desktop
+{
+	rect	0,0,640,480
+	backcolor	1,1,1,0.09803922
+	bordersize	2
+	bordercolor	1,1,1,0.49803925
+	visible	1
+	nocursor	1
+	windowDef unnamed
+	{
+		rect	260,92,100,100
+		visible	1
+		forecolor	1,1,0,1
+		text	"11D"
+		textscale	1.5
+	}
+	windowDef unnamed1
+	{
+		rect	18,170,615,168
+		visible	1
+		forecolor	1,1,1,1
+		text	"Nikoo, Domy. Õk biztos segítettek. A többiekre nem emlékszem ("
+		textscale	0.80000001
+		textalign	1
+	}
+}

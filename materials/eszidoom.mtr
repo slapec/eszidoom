@@ -1,0 +1,113 @@
+textures/custom/feher
+{
+qer_editorimage textures/eszidoom/pott_d.tga
+diffusemap textures/eszidoom/pott_d.tga
+specularmap textures/eszidoom/pott_s.tga
+bumpmap textures/eszidoom/pott_local.tga
+}
+
+textures/custom/sargat
+{
+qer_editorimage textures/eszidoom/sargat_p_d.tga
+diffusemap textures/eszidoom/sargat_p_d.tga
+bumpmap textures/eszidoom/sargat_p_local.tga
+}
+
+textures/custom/lepcsooldal
+{
+qer_editorimage textures/eszidoom/lepcsooldal_d.tga
+diffusemap textures/eszidoom/lepcsooldal_d.tga
+bumpmap textures/eszidoom/lepcsooldal_local.tga
+}
+
+textures/custom/lepcsoteto
+{
+qer_editorimage textures/eszidoom/lepcso_teto_d.tga
+diffusemap textures/eszidoom/lepcso_teto_d.tga
+}
+
+textures/custom/lepcsoe
+{
+qer_editorimage textures/eszidoom/lepcsoe_d.tga
+diffusemap textures/eszidoom/lepcsoe_d.tga
+bumpmap textures/eszidoom/lepcsoe_local.tga
+}
+
+textures/custom/grass
+{
+qer_editorimage textures/eszidoom/grass_d.tga
+diffusemap textures/eszidoom/grass_d.tga
+bumpmap textures/eszidoom/grass_local.tga
+}
+
+
+textures/custom/pott_up
+{
+qer_editorimage textures/eszidoom/pott_up_d.tga
+diffusemap textures/eszidoom/pott_up_d.tga
+bumpmap textures/eszidoom/pott_up_local.tga
+}
+
+textures/custom/sarga_text
+{
+qer_editorimage textures/eszidoom/sarga_d.tga
+diffusemap textures/eszidoom/sarga_d.tga
+bumpmap textures/eszidoom/sarga_local.tga
+}
+
+textures/custom/sarga_atkot
+{
+qer_editorimage textures/eszidoom/sarga_line_d.tga
+diffusemap textures/eszidoom/sarga_line_d.tga
+bumpmap textures/eszidoom/sarga_line_local.tga
+}
+
+textures/custom/roof
+{
+qer_editorimage textures/eszidoom/roof_d.tga
+diffusemap textures/eszidoom/roof_d.tga
+bumpmap textures/eszidoom/roof_local.tga
+}
+
+textures/custom/lino
+{
+qer_editorimage textures/eszidoom/lino_d.tga
+diffusemap textures/eszidoom/lino_d.tga
+bumpmap textures/eszidoom/lino_local.tga
+}
+
+textures/custom/szego
+{
+qer_editorimage textures/eszidoom/szego_d.tga
+diffusemap textures/eszidoom/szego_d.tga
+bumpmap textures/eszidoom/szego_local.tga
+}
+
+textures/custom/aszfalt
+{
+qer_editorimage textures/eszidoom/aszfalt_ed.tga
+bumpmap textures/eszidoom/aszfalt_local.tga
+diffusemap textures/eszidoom/aszfalt_d.tga
+specularmap textures/eszidoom/aszfalt_s.tga
+}
+
+textures/custom/lego
+{
+qer_editorimage textures/eszidoom/lego_ed.tga
+diffusemap textures/eszidoom/lego_d.tga
+specularmap textures/eszidoom/lego_s.tga
+bumpmap textures/eszidoom/lego_local.tga
+}
+
+textures/custom/wall_green
+{
+qer_editorimage textures/eszidoom/wall_green_ed.tga
+diffusemap textures/eszidoom/wall_green_d.tga
+bumpmap textures/eszidoom/wall_green_local.tga
+}
+
+textures/custom/floor
+{
+qer_editorimage textures/eszidoom/linoleum_d.tga
+diffusemap textures/eszidoom/linoleum_d.tga
+}

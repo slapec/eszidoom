@@ -1,0 +1,17 @@
+windowDef Desktop
+{
+	rect	0,0,640,480
+	backcolor	1,1,1,0.09803922
+	bordersize	2
+	bordercolor	1,1,1,0.49803925
+	visible	1
+	windowDef unnamed
+	{
+		rect	0,142,640,300
+		visible	1
+		forecolor	1,1,1,1
+		text	"Ezen a termen keresztül tudsz kimenni a tulsó folyosóra"
+		textscale	1
+		textalign	1
+	}
+}

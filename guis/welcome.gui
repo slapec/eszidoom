@@ -1,0 +1,80 @@
+windowDef Desktop
+{
+	rect	0,0,640,480
+	visible	1
+	bordersize	3
+	bordercolor	1,1,1,0.627451
+	backcolor	1,1,1,0.17647059
+	nocursor	1
+	windowDef welcome
+	{
+		rect	46,19,551,54
+		visible	1
+		forecolor	1,1,1,1
+		text	"Üdv az ESZiDOOMban!"
+		textscale	1
+	}
+	windowDef imp2
+	{
+		rect	20,76,600,126
+		visible	1
+		forecolor	1,1,1,1
+		text	"Minden folyosón és teremben automatikusan kapcsolódó villany van. Lehet velük szórakozni, könnyen égvemaradhatnak :)"
+		textscale	0.55000001
+		textalign	1
+	}
+	windowDef br
+	{
+		rect	20,78,600,2
+		visible	1
+		bordersize	1
+		bordercolor	1,0,0,0.21176472
+	}
+	windowDef unnamed
+	{
+		rect	10,218,613,88
+		visible	1
+		forecolor	1,1,1,1
+		text	"Szörnyek nincsenek, akinek mégis kell, az spawnoljon magának!"
+		textscale	0.55000001
+		textalign	1
+	}
+	windowDef unnamed1
+	{
+		rect	119,292,399,39
+		visible	1
+		forecolor	1,1,1,1
+		text	"Konzolba: spawn <mob_neve>"
+		textscale	0.5
+	}
+	windowDef unnamed2
+	{
+		rect	6,317,630,36
+		visible	1
+		forecolor	1,1,1,1
+		text	"pl: monster_demon_imp ; monster_demon_hellknight"
+		textscale	0.44999999
+	}
+	windowDef br1
+	{
+		rect	20,210,600,2
+		visible	1
+		bordersize	1
+		bordercolor	1,0,0,0.21176472
+	}
+	windowDef br2
+	{
+		rect	20,290,600,2
+		visible	1
+		bordersize	1
+		bordercolor	1,0,0,0.21176472
+	}
+	windowDef unnamed3
+	{
+		rect	30,395,580,36
+		visible	1
+		forecolor	1,1,1,1
+		text	"hasznos lehet még: give all ; god ; notarget"
+		textscale	0.5
+	}
+}

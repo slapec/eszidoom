@@ -1,0 +1,26 @@
+windowDef Desktop
+{
+	rect	0,0,640,480
+	backcolor	1,1,1,0.09803922
+	bordersize	2
+	bordercolor	1,1,1,0.45882356
+	visible	1
+	windowDef unnamed
+	{
+		rect	250,103,140,79
+		visible	1
+		forecolor	1,1,0,1
+		text	"108"
+		textscale	1.5
+	}
+	windowDef unnamed1
+	{
+		rect	0,190,640,126
+		visible	1
+		forecolor	1,1,1,1
+		text	"Ez itt a B06-10 osztálya, ide járok én is :D"
+		textscale	1
+		textalign	1
+		font	"fonts/english"
+	}
+}

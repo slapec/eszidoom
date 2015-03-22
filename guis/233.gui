@@ -1,0 +1,26 @@
+windowDef Desktop
+{
+	rect	0,0,640,480
+	backcolor	1,1,1,0.09803922
+	bordersize	2
+	bordercolor	1,1,1,0.49803925
+	visible	1
+	nocursor	1
+	windowDef unnamed
+	{
+		rect	242,85,138,73
+		visible	1
+		forecolor	1,1,0,1
+		text	"233"
+		textscale	1.5
+	}
+	windowDef unnamed1
+	{
+		rect	51,189,545,120
+		visible	1
+		forecolor	1,1,1,1
+		text	"Ez itt a 233-as gépterem. A zöld téglák asztalok, azokon vannak a számítógépek :)"
+		textscale	0.60000002
+		textalign	1
+	}
+}

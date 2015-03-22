@@ -1,0 +1,26 @@
+windowDef Desktop
+{
+	rect	0,0,640,480
+	backcolor	1,1,1,0.09803922
+	bordersize	2
+	bordercolor	1,1,1,0.49803925
+	visible	1
+	nocursor	1
+	windowDef unnamed
+	{
+		rect	109,107,469,83
+		visible	1
+		forecolor	1,1,0,1
+		text	"Fizika labor"
+		textscale	1.5
+	}
+	windowDef unnamed1
+	{
+		rect	44,188,546,70
+		visible	1
+		forecolor	1,1,1,1
+		text	"Jobb oldalt hátul van egy második kijárat"
+		textscale	0.60000002
+		textalign	1
+	}
+}

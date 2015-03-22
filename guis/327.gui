@@ -1,0 +1,25 @@
+windowDef Desktop
+{
+	rect	0,0,640,480
+	backcolor	1,1,1,0.09803922
+	bordersize	2
+	bordercolor	1,1,1,0.49803925
+	visible	1
+	windowDef unnamed
+	{
+		rect	247,106,148,100
+		visible	1
+		forecolor	1,1,0,1
+		text	"327"
+		textscale	1.5
+	}
+	windowDef unnamed1
+	{
+		rect	47,184,557,216
+		visible	1
+		forecolor	1,1,1,1
+		text	"327-es gépterem, itt van a cisco is. A kiálló brushokon vannak a gépek."
+		textscale	1
+		textalign	1
+	}
+}

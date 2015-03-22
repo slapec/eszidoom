@@ -1,0 +1,42 @@
+windowDef Desktop
+{
+	rect	0,0,640,480
+	visible	1
+	nocursor	1
+	windowDef warning
+	{
+		rect	8,11,624,459
+		visible	1
+		backcolor	1,0,0,0.14901961
+		bordersize	2
+		bordercolor	1,0,0,1
+	}
+	windowDef warn
+	{
+		rect	0,33,625,95
+		visible	1
+		forecolor	1,0,0,1
+		text	"Figyelem!"
+		textscale	1
+		textalign	1
+	}
+	windowDef first
+	{
+		rect	0,101,630,480
+		visible	1
+		forecolor	1,1,1,1
+		text	"Amint belépsz az épületbe, az összes lámpa idekint lekapcsolódik."
+		textscale	0.80000001
+		font	"fonts/english"
+		textalign	1
+	}
+	windowDef snd
+	{
+		rect	0,257,632,200
+		visible	1
+		forecolor	1,1,1,1
+		text	" Ha még világosba körbe akarod járni az épületet, akkor most írd be hogy noclip (falakon átjárás) és körberepülheted az épületet!"
+		textscale	0.57999998
+		textalign	1
+	}
+}

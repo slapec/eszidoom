@@ -1,0 +1,93 @@
+windowDef Desktop
+{
+	rect	0,0,640,480
+	visible	1
+	backcolor	0,0,0,1
+	nocursor	1
+	windowDef BackgroundImage
+	{
+		rect	125,1,390,179
+		visible	1
+		background	"guis/assets/splash/creditgui"
+		matcolor	1,1,1,1
+	}
+	windowDef unnamed
+	{
+		rect	11,130,618,30
+		visible	1
+		forecolor	1,1,0,1
+		text	"eszidoom - eszi.map build 1337 v0.1 prealpha"
+		textscale	0.52999997
+	}
+	windowDef unnamed10
+	{
+		rect	21,160,610,129
+		visible	1
+		forecolor	1,1,1,1
+		text	"Köszönet mindenkinek aki segített, fõleg Nikoonak és Caiwannak, nameg az eszinek, hogy ott lehetek :), meg mindenkinek wlm-en. Bocsi, nem emlékszem sok névre már, aki segített, az jelentkezzen bátran ^^"
+		textscale	0.40000001
+		textalign	1
+	}
+	windowDef unnamed15
+	{
+		rect	16,260,602,106
+		visible	1
+		forecolor	1,1,1,1
+		text	"Ez az egész kóceráj 2400brushból épült 1 év -laza :)- munkával. Nem mindenhol hû az eredeti épülethez, azon már nem is fogok változtatni."
+		textscale	0.38
+		textalign	1
+	}
+	windowDef unnamed14
+	{
+		rect	28,342,583,68
+		visible	1
+		forecolor	1,1,1,1
+		text	"Köszönet még a FearFM.nl-nek. Hátez hardstyle nélkül biztos nem sikerül volna :D"
+		textscale	0.30000001
+		textalign	1
+	}
+	windowDef unnamed12
+	{
+		rect	98,398,633,76
+		visible	1
+		forecolor	1,0,0,1
+		text	"Slapec - 2009 Január 03"
+		textscale	0.69999999
+	}
+	windowDef unnamed11
+	{
+		rect	36,444,634,46
+		visible	1
+		forecolor	1,1,1,1
+		text	"slapec.freeblog.hu | eszidoom.freeblog.hu | slapec@gmail.com"
+		textscale	0.34999999
+	}
+	windowDef unnamed1
+	{
+		rect	7,161,625,2
+		visible	1
+		bordersize	2
+		bordercolor	1,0,0,1
+	}
+	windowDef unnamed13
+	{
+		rect	10,259,625,2
+		visible	1
+		bordersize	2
+		bordercolor	1,0,0,1
+	}
+	windowDef unnamed16
+	{
+		rect	6,333,625,2
+		visible	1
+		bordersize	2
+		bordercolor	1,0,0,1
+	}
+	windowDef unnamed17
+	{
+		rect	7,390,625,2
+		visible	1
+		bordersize	2
+		bordercolor	1,0,0,1
+	}
+}
